@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JsonProject</string>
+    <string name="title_activity_main_layout">MainLayout</string>
+    <string name="title_home">Khám phá</string>
+    <string name="title_dashboard">Bản đồ</string>
+    <string name="title_notifications">Thông tin cá nhân</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_discoverdetail">Discoverdetail</string>
+</resources>
